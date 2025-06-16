@@ -1,6 +1,6 @@
 ## Hi there 👋
 <p align="center">
-  Hola Sory Rocio
+   Soy Rocio
 📊 Científica de Datos | 🤖 Machine Learning | 🧠 Análisis de Datos | 📈 Business Intelligence | 🎯 Storytelling
 </p>
 
