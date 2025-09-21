@@ -32,7 +32,6 @@
 #### 📊 BI y Visualización
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat&logo=googleanalytics&logoColor=white)
 
 #### ☁️ Herramientas & Deploy
 
